@@ -1,0 +1,27 @@
+h1 {
+	font-family: "Courier New", Courier, mono;
+	text-align: center;
+}
+div.manifesty {
+	text-align: center;
+}
+span.manhandel {
+	display: block;
+	margin-top: 3em;
+}
+span.member img {
+	width: 35%;
+	border: 1px solid #000;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+span.member {
+	margin-top: 111px;
+}
+
+span.member a {
+	font: bold 18px "Courier New", Courier, mono;
+	text-align: center;
+}
+
